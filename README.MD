@@ -1,6 +1,6 @@
 # Selenium Setup
 
-1. Download the following files: [Selenium Server](https://goo.gl/4g538W), [Google Guava](http://search.maven.org/remotecontent?filepath=com/google/guava/guava/23.0/guava-23.0.jar)
+1. Download the latest JAR release from [here](https://github.com/asahasrabuddhe/selenium-helpers/releases)
 2. Install [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=linux)
 3. Clone this repository with the follwing command\
  ```git clone https://github.com/asahasrabuddhe/selenium-basics```
